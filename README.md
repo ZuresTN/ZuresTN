@@ -1,89 +1,86 @@
-<h1 align="center">Iheb Mahfoudh — <code>ZuresTN</code></h1>
-<h3 align="center">Cybersecurity Engineer · Penetration Tester · CTF Player 🇹🇳</h3>
+<!-- ===== HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:1a3a1a,100:9FEF00&height=200&section=header&text=ZuresTN&fontColor=9FEF00&fontSize=70&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Offensive%20Security&descSize=18&descAlignY=60&descColor=c9d1d9" alt="header"/>
 
+<!-- ===== TYPING SUBTITLE ===== -->
 <p align="center">
   <a href="https://app.hackthebox.com/users/2246031">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Top%2020%20Tunisia-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Top 20 Tunisia"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=9FEF00&center=true&vCenter=true&width=620&lines=Penetration+Tester+%26+CTF+Player;Top+20+on+Hack+The+Box+%F0%9F%87%B9%F0%9F%87%B3+Tunisia;Breaking+systems+to+make+them+stronger;root%40zures%3A~%23+whoami" alt="typing"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Offensive Security"/>
-  <img src="https://img.shields.io/badge/Location-Tunisia-E70013?style=for-the-badge" alt="Tunisia"/>
+</p>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/2246031"><img src="https://img.shields.io/badge/HTB-Top%2020%20Tunisia-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=141d2b"/></a>
+  <img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=141d2b"/>
+  <img src="https://komarev.com/ghpvc/?username=ZuresTN&style=for-the-badge&color=9FEF00&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-### 🛡️ About
+```bash
+zures@tunisia:~$ whoami
+> Iheb Mahfoudh — Cybersecurity Engineer
 
-Cybersecurity engineer focused on **offensive security** — penetration testing, red teaming, and breaking systems to make them stronger. **Top 20 on Hack The Box in Tunisia**, hunting boxes, flags, and CVEs in my spare time.
+zures@tunisia:~$ cat profile.txt
+┌──────────────────────────────────────────────────────────┐
+│  role     : Penetration Tester / Red Teamer                │
+│  rank     : Top 20 — Hack The Box (Tunisia) 🇹🇳            │
+│  focus    : web · network · privesc · AD · reversing       │
+│  playing  : CTFs, bug bounty, malware analysis             │
+│  motto    : the quieter you become, the more you hear      │
+└──────────────────────────────────────────────────────────┘
 
-- 🔭 Working on real-world pentests, web & network exploitation, and security tooling
-- 🧩 Active CTF player — web, pwn, reversing, privilege escalation
-- 📚 Always learning: malware analysis, AD attacks, cloud security
-- 🤝 Open to security research, collabs, and bug bounty
+zures@tunisia:~$ sudo ./engage.sh --target out-of-scope
+> permission denied. always authorized. always ethical.
+```
 
 ---
 
-### 🧰 Arsenal
+### `>` Arsenal
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,c,js,java,mysql,docker,git,aws,wireshark&theme=dark" alt="skills"/>
 </p>
 
-**Offensive Tooling**
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-FF6B00?style=flat&logo=ghidra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat&logo=hackthebox&logoColor=9FEF00"/>
-</p>
-
-**Platforms & Infra**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-FF6B00?style=flat-square&logo=ghidra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-2C2C2C?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/BloodHound-A40000?style=flat-square&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
 
-### 🏆 Hack The Box
+### `>` Hack The Box
 
 <p align="center">
   <a href="https://app.hackthebox.com/users/2246031">
-    <img src="https://www.hackthebox.com/badge/image/2246031" alt="Hack The Box profile"/>
+    <img src="https://www.hackthebox.com/badge/image/2246031" alt="HTB badge"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### `>` Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZuresTN&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuresTN&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZuresTN&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=0a0e14"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuresTN&layout=compact&hide_border=true&langs_count=8&title_color=9FEF00&text_color=c9d1d9&bg_color=0a0e14"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZuresTN&hide_border=true&theme=midnight-purple" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ZuresTN&hide_border=true&background=0a0e14&stroke=9FEF00&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
 ---
 
-### 📫 Reach Me
+### `>` Reach Me
 
 <p align="center">
-  <a href="mailto:iheb.txt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/users/2246031"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
-  <a href="https://github.com/ZuresTN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:iheb.txt@gmail.com"><img src="https://img.shields.io/badge/Email-141d2b?style=for-the-badge&logo=gmail&logoColor=9FEF00"/></a>
+  <a href="https://app.hackthebox.com/users/2246031"><img src="https://img.shields.io/badge/Hack%20The%20Box-141d2b?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="https://github.com/ZuresTN"><img src="https://img.shields.io/badge/GitHub-141d2b?style=for-the-badge&logo=github&logoColor=9FEF00"/></a>
 </p>
 
-<p align="center"><i>"The quieter you become, the more you are able to hear."</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9FEF00,50:1a3a1a,100:0a0e14&height=120&section=footer"/>
