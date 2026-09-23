@@ -20,13 +20,13 @@ I focus on offensive security: understanding how systems fail, tracing attack pa
 
 CTFs and Hack The Box are part of my hands-on practice, alongside exploring bug bounty hunting and malware analysis.
 
-```text
-zures@tunisia:~$ cat focus.txt
-
-web & network security  /  attack surface and exploitation
-active directory        /  attack paths and privilege escalation
-reverse engineering     /  binaries and malware analysis
-```
+<!-- Regenerate the terminal assets with: python scripts/build-terminal.py -->
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/terminal-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal-static.svg" />
+  <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg" />
+  <img width="100%" src="assets/terminal.svg" alt="Animated terminal introducing Iheb Mahfoudh, Cybersecurity Engineer and Penetration Tester / Red Teamer, with his security focus, CTF practice, and email: zures001@gmail.com." />
+</picture>
 
 ## Toolkit
 
